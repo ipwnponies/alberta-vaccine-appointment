@@ -1,0 +1,4 @@
+addict
+beautifulsoup4
+pendulum
+requests
